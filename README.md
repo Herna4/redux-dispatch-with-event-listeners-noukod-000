@@ -1,4 +1,4 @@
-# Completing our Counter Application
+p# Completing our Counter Application
 
 ## Objectives
 
